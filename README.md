@@ -1,6 +1,6 @@
-# Plugin Template for Xed-Editor
+# AI Plugin for Xed-Editor
 
-This project serves as a template for creating plugins for **Xed-Editor (Karbon)**.
+This project is a plugin for **Xed-Editor (Karbon)** that aims to integrate AI/LLM capabilities into the editor.
 
 ## Setup
 
